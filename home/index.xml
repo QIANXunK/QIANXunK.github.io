@@ -84,10 +84,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0300</pubDate>
       
       <guid>/home/publications/</guid>
-      <description>9, R. M. Gower, N. Loizou, X. Qian, A. Sailanbayev, E. Shulgin, P. Richtarik, &amp;ldquo;SGD: general analysis and improved rates&amp;rdquo;, arXiv:1901.09401. https://arxiv.org/abs/1901.09401
-8, X. Qian, Z, Qu, P. Richtarik, &amp;ldquo;SAGA with arbitrary sampling&amp;rdquo;, arXiv:1901.08669. https://arxiv.org/abs/1901.08669
-7, X. Qian, L.-Z. Liao, J. Sun, and H. Zhu, &amp;ldquo;The convergent generalized central paths for linearly constrained convex programming&amp;rdquo;, SIAM J. Optim., 28(2), 1183-1204, 2018. https://epubs.siam.org/doi/pdf/10.1137/16M1104172
-6, X. Qian, L.-Z. Liao, and J. Sun, “A strategy of global convergence for the affine scaling algorithm for convex semidefinite programming”, Math.</description>
+      <description>11, X. Qian, A. Sailanbayev, K. Mishchenko, P. Richtarik, &amp;ldquo;MISO is Making a Comeback With Better Proofs and Rates&amp;rdquo;, arXiv: 1906.01474. http://arxiv.org/abs/1906.01474
+10, X. Qian, Z, Qu, P. Richtarik, &amp;ldquo;L-SVRG and L-Katyusha with Arbitrary Sampling&amp;rdquo;, arXiv: 1906.01481. http://arxiv.org/abs/1906.01481
+9, R. M. Gower, N. Loizou, X. Qian, A. Sailanbayev, E. Shulgin, P. Richtarik, &amp;ldquo;SGD: general analysis and improved rates&amp;rdquo;, ICML 2019. http://proceedings.mlr.press/v97/qian19b.html
+8, X. Qian, Z, Qu, P. Richtarik, &amp;ldquo;SAGA with arbitrary sampling&amp;rdquo;, ICML 2019.</description>
     </item>
     
     <item>
